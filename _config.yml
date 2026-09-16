@@ -1,0 +1,18 @@
+title: "Kounosuke Kido"
+description: "AI / Machine Learning / Federated Learning / Software Engineering"
+url: "https://Manstein0704.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: "Kounosuke Kido"
+
+header_pages:
+  - about.md
+
+minima:
+  skin: auto
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
